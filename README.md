@@ -1,6 +1,8 @@
 
 # IndiaCityGDP: A Visualization of Urban Economic Metrics 🌆📊
 
+![ui_image_ss](home.png)
+
 **IndiaCityGDP** is a data visualization project that analyzes GDP and economic productivity across Indian cities. It leverages **Python (Pandas, NumPy)** for data processing and **Power BI & Streamlit** for interactive visualization. The project aims to provide policymakers, business leaders, and researchers with insights into urban economic performance using real-world data from government reports and economic surveys.
 
 ## 🚀 Features
