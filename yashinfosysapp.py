@@ -118,7 +118,7 @@ st.markdown(f"""
 
 
 # Open AI key used for chat bot
-openai.api_key = #your open ai key
+# openai.api_key = #your open ai key
 
 
 
